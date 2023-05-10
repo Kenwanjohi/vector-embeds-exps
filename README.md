@@ -1,4 +1,4 @@
-#### Creating word vectors and Cosine similarities btn
+#### Creating Word Vectors and Cosine Similarities
 
 ###### In search for long-term memory for LLMs minimising hallucinations
 
